@@ -37,24 +37,6 @@ pip install -r requirements.txt
 ```
 ---
 
-## Features
-
-1. **Model Implementation**:
-   - Implements DL-STD, DL-PRO, and DLS methods using Python.
-   - Incorporates non-linear regression to fit model parameters.
-
-2. **Inference for Match Interruptions**:
-   - Predicts revised targets using real-world scenarios for both ODIs and T20Is.
-   - Supports predictions using DL-STD, DL-PRO, and DLS methods.
-
-3. **Visualization**:
-   - Generates graphs comparing predicted vs. actual data to validate the models.
-
-4. **Web App**:
-   - Interactive interface for real-time score and win probability prediction.
-
----
-
 ## References
 
 1. Duckworth, F. C., & Lewis, A. J. (1998). A fair method for resetting the target in interrupted one-day cricket matches.
